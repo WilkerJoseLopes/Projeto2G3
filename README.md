@@ -2,7 +2,7 @@
 
 Desenvolvido pelo Grupo 3:
 
-David Duarte,
+[David Duarte](https://github.com/DavidDuarteQwerty),
 Danilson Gonçalves,
 Wilker Lopes
 e Rafael Fortes.
